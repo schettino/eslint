@@ -220,7 +220,9 @@ let a = 5;
 
  **Exemplo Plugin: React**
 
- ![Image](assets/images/6.png)
+
+![Image](assets/images/6.png)
+
 
 ---
 
